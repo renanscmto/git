@@ -1,1 +1,1 @@
-console.log("Novo no projeto")
+console.log("Olá sou o novo colaborador do projeto!")
